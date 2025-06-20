@@ -1,0 +1,30 @@
+[
+  {
+    "Id": "6e9c25e0-d62e-4862-8560-2970e8f1fe60",
+    "CodigoFiscal": "2191398190329",
+    "InscricaoEstadual": "2191398190329",
+    "Nome": "Jo\u00E3o Marcos ",
+    "NomeFantasia": "Jo\u00E3o Marcos ",
+    "Endereco": "Rua An\u00E9sio Martins Faria Qd.08 Lt.07 ",
+    "Numero": "219139",
+    "Bairro": "Pedrolina",
+    "Cidade": "S\u00E3o Paulo",
+    "Estado": "SP",
+    "DataNascimento": "2004-03-25T00:00:00",
+    "ImagemPath": null
+  },
+  {
+    "Id": "3a077431-c2cf-4e82-82e2-89bde5977dfd",
+    "CodigoFiscal": "2191398466446",
+    "InscricaoEstadual": "2453535356",
+    "Nome": "Jo\u00E3o Marcos marcos",
+    "NomeFantasia": "Jo\u00E3o Marcos marcos",
+    "Endereco": "Rua An\u00E9sio Martins Faria Qd.08 Lt.07 ",
+    "Numero": "2191398190",
+    "Bairro": "Pedrolina",
+    "Cidade": "Belo Horizonte",
+    "Estado": "DF",
+    "DataNascimento": "2004-03-25T00:00:00",
+    "ImagemPath": "/uploads/e9bf7823-a272-4131-a908-94d0ea4ed22f.png"
+  }
+]
